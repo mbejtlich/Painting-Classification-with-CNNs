@@ -7,7 +7,7 @@ In this project I worked with two of my peers, Sean Miller and William Jordan. W
 For this project we conducted research under the guidance and mentorship of Dr. Serre from Cognitive, Linguistic, and Psychological Sciences (CLPS) at Brown University. 
 
 The full project is documented on my Medium blog:
-- [Data acquisition and storage] (https://medium.com/@matthewbejtlich/v1s10n-preliminary-3-questions-f0ae91bf88c0)
-- [Status update] (https://medium.com/@matthewbejtlich/v1s10n-status-update-dec-3-67ee4601ff4)
-- [Final ML] (https://medium.com/@matthewbejtlich/final-machine-learning-and-reporting-visualization-5f58fa4713b1)
-- [Interactions and summary] (https://medium.com/@matthewbejtlich/interactive-application-summary-f180158a5ef1)
+- [Data acquisition and storage](https://medium.com/@matthewbejtlich/v1s10n-preliminary-3-questions-f0ae91bf88c0)
+- [Status update](https://medium.com/@matthewbejtlich/v1s10n-status-update-dec-3-67ee4601ff4)
+- [Final ML](https://medium.com/@matthewbejtlich/final-machine-learning-and-reporting-visualization-5f58fa4713b1)
+- [Interactions and summary](https://medium.com/@matthewbejtlich/interactive-application-summary-f180158a5ef1)
