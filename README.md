@@ -6,7 +6,7 @@ In this project I worked with two of my peers, Sean Miller and William Jordan. W
 
 For this project we conducted research under the guidance and mentorship of Dr. Serre from Cognitive, Linguistic, and Psychological Sciences (CLPS) at Brown University. 
 
-The project is documented on my Medium blog:
+The full project is documented on my Medium blog:
 - Data acquisition and storage
 - Status update
 - Final ML
