@@ -1,10 +1,13 @@
 # Painting-Classification-with-CNNs
 
-Client: Self
-Date: 2017
-Class: Data and Computational Science
-Instructor: Dan Potter, PhD
+Within recent years, museums and online art collectives around the world have started to digitize their art collections. A proportion of these high-resolution images have been made available in the public domain, while others remain private. The influx of images to the online arena has provided an opportunity for scientists and researchers alike to analyze artwork for possible correlations. In the past, neural networks have been used for pattern recognition and to produce pattern transfer (i.e. Google DeepDream). In addition, several studies have been conducted regarding painting image classification (Northwestern and Stanford).
 
-Within recent years, museums and online art collectives around the world have started to digitize their art collections. In order to help support educators, curators, and archivists to archive and find interesting correlations between artwork, I helped to design a deep learning model.
-        A database was formed with over 15,000 web-scraped images, each having attributes like (e.g. date and artistic style). A total 12 total artistic styles and 28 artists were represented. A convolutional neural network (CNN) was trained to predict style and artist, with a validation classification accuracy of 40% for style and 53% for artists. A simple visual interface was made to allow a user to run new (untrained) images through the model.
-        The research was conducted under the guidance and mentorship of Dr. Serre from the Cognitive, Linguistic, and Psychological Sciences  (CLPS) lab at Brown University. 
+In this project I worked with two of my peers, Sean Miller and William Jordan. We used Convolution Nueral Networks (CNNs) to classify paintings based on various attributes (painter and style). We formed our database with over 15,000 web-scraped images, with a total of 12 total styles represented and 28 artists. We obtained a validation accuracy of 40% for the final style classfication CNN. For the artist classification CNN we obtained an accuracy of 53%. If running time were not an issue, we would likely be able to greatly improve upon these accuracies. In the future, we would like to explore the data through an interactive visualization such as the Embedding Project by TensorFlow. This could be helpful for museums, art historians, and art enthusiasts seeking to better understand artistic correlations between paintings. 
+
+For this project we conducted research under the guidance and mentorship of Dr. Serre from Cognitive, Linguistic, and Psychological Sciences (CLPS) at Brown University. 
+
+The project is documented on my Medium blog:
+→ Data acquisition and storage
+→ Status update
+→ Final ML
+→ Interactions and summary
